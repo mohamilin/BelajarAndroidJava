@@ -67,4 +67,4 @@
             android:text="@string/Login"/>
       ```  
 6. Hasil akhirnya :
-   ![LoginApp]('./assets/loginapp.jpeg)
+   ![LoginApp]('/assets/loginapp.jpeg)

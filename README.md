@@ -69,4 +69,4 @@
 6. Hasil akhirnya :
    <br> <br>
    <!-- <img src="/assets/loginapp.jpeg" alt="Loginapp" title="LoginApp" width="50%" height="50%" /> -->
-   ![LoginApp](/assets/loginapp.jpeg = 400 x 300)
+   ![LoginApp](/assets/loginapp.jpeg){: width=50% height=50%}

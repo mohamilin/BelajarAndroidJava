@@ -67,5 +67,5 @@
             android:text="@string/Login"/>
       ```  
 6. Hasil akhirnya :
-   <img src="/assets/loginapp.jpeg" alt="Loginapp" title="LoginApp" width="150" height="100" />
+   <img src="/assets/loginapp.jpeg" alt="Loginapp" title="LoginApp" width="50%" height="50%" />
    <!-- ![LoginApp](/assets/loginapp.jpeg) -->
